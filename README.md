@@ -1,1 +1,5 @@
-# ant-colony-py\n\nZero-dependency Python CLI.\n\n```bash\npython3 ant_colony.py\n```\n
+# ant-colony-py
+
+Ant colony optimization for TSP
+
+Zero-dependency Python. Stdlib only.
